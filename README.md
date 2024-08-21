@@ -1,10 +1,10 @@
 <h1 align="left">Repositório de Exercícios Resolvidos - Curso Banco de Dados SQL.</h1>
 
-Este repositório contém as soluções dos exercícios do curso **Banco de Dados SQL** oferecido pela WoMakersCode, utilizado o **SQLite** utilizando a **IDE DBeaver**. O objetivo deste repositório é servir como referência para quem deseja acompanhar o progresso no aprendizado de Python e revisitar os conceitos abordados em cada módulo.
+Este repositório contém as soluções dos exercícios do curso **Banco de Dados SQL** oferecido pela WoMakersCode, utilizado o **SQLite** utilizando a **IDE DBeaver**. O objetivo deste repositório é servir como referência para quem deseja acompanhar o progresso no aprendizado de Python e revisitar os conceitos abordados em banco de dados básico.
 
 ## 📚 Conteúdo do Curso
 
-O curso é dividido em cinco módulos principais, cada um cobrindo diferentes aspectos do Python. Abaixo, uma visão geral dos tópicos abordados:
+O curso é dividido nos principais tópicos abordados do básico do SQL:
 
   - Introdução aos conceitos fundamentais de Banco de Dados.
   - Guia passo a passo para instalação do DBeaver.
